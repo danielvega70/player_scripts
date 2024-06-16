@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6cb28d24dab24bd458aa986b3a61c6a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balaPrefab: {fileID: 100000, guid: ff419cf9e460bab428084b82c5ac3d92, type: 3}
+  - puntoDisparo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
